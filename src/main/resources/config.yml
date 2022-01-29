@@ -1,2 +1,8 @@
 console:
   console-broadcast: true
+database:
+  ip: "localhost"
+  port: "3306"
+  username: "root"
+  password: "root"
+  database: "main"
