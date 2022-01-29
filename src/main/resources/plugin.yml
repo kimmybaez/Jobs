@@ -1,0 +1,6 @@
+name: Jobs
+version: '${project.version}'
+main: ru.jobs.jobs.Jobs
+depend: [ Vault ]
+authors: [ kimmybaez, bebrikoff, mamedoff ]
+description: Adds workflow
